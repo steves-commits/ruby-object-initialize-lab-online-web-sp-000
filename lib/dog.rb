@@ -4,8 +4,11 @@ class Dog
     @name = name
   end
   
-  
-  
+  def breed
+    @breed = breed 
+    if @breed = nil 
+      puts "Mutt"
+  end
   
   
   
