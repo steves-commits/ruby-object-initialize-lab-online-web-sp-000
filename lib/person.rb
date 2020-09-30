@@ -1,0 +1,11 @@
+class Person
+  
+  initialize 
+  
+  
+  
+  
+  
+  
+  
+end
